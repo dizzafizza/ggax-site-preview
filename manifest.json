@@ -1,0 +1,17 @@
+{
+  "short_name": "GGAX",
+  "name": "Gwa'lgum'ax Consulting",
+  "description": "First Nations-led conflict resolution, mediation, and workshops.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#9A2F2A",
+  "background_color": "#FBFAF8"
+}

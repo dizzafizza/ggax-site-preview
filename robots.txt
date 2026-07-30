@@ -1,0 +1,4 @@
+# Client review preview - must NOT be indexed.
+# The canonical production site is https://ggaxconsulting.ca/
+User-agent: *
+Disallow: /
